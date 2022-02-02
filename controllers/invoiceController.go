@@ -8,9 +8,9 @@ func GetInvoices() gin.HandlerFunc {
 func GetInvoice() gin.HandlerFunc {
 	return func(c *gin.Context) {}
 }
-func CreateInvoices() gin.HandlerFunc {
+func CreateInvoice() gin.HandlerFunc {
 	return func(c *gin.Context) {}
 }
-func UpdateInvoices() gin.HandlerFunc {
+func UpdateInvoice() gin.HandlerFunc {
 	return func(c *gin.Context) {}
 }
